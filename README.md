@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/Gifairu/discord-card">
-    <img src="assets/Logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/Logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Discord Card</h3>
@@ -11,7 +11,7 @@
 <!-- EXAMPLE OUTPUT -->
 <p align="center">
    <a href="https://github.com/Gifairu/discord-card">
-    <img src="src/assets/template/Card.png" alt="Before" width="80" height="80">
-    <img src="results/Card.png" alt="After" width="80" height="80">
+      <img src="src/assets/template/Card.png" alt="Before">
+      <img src="results/Card.png" alt="After">
    </a>
 </p>
