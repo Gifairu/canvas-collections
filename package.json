@@ -1,0 +1,30 @@
+{
+	"name": "discord-card",
+	"version": "1.0.0",
+	"description": "Making discord card using canvas.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"lint": "prettier --check --plugin-search-dir=. .",
+		"format": "prettier --write --plugin-search-dir=. ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Gifairu/discord-card.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Gifairu/discord-card/issues"
+	},
+	"homepage": "https://github.com/Gifairu/discord-card#readme",
+	"dependencies": {
+		"canvas": "^2.8.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7",
+		"prettier": "^2.3.1",
+		"typescript": "^4.3.2"
+	}
+}
