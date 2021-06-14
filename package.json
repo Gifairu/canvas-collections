@@ -1,7 +1,7 @@
 {
-	"name": "discord-card",
+	"name": "canvas-collections",
 	"version": "1.0.0",
-	"description": "Create Awesome Discord Card Profile using Canvas.",
+	"description": "Create Awesome Image Manipulation using Canvas.",
 	"main": "src/index.js",
 	"scripts": {
 		"start": "node src/index.js",
@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Gifairu/discord-card.git"
+		"url": "git+https://github.com/Gifairu/canvas-collections.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Gifairu/discord-card/issues"
+		"url": "https://github.com/Gifairu/canvas-collections/issues"
 	},
-	"homepage": "https://github.com/Gifairu/discord-card#readme",
+	"homepage": "https://github.com/Gifairu/canvas-collections#readme",
 	"dependencies": {
 		"canvas": "^2.8.0"
 	},
