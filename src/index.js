@@ -82,9 +82,7 @@ const fs = require('fs');
 	 * @type {clip} - Clip images
 	 * @type {drawImage} - Draw avatar images (images, x, y, size images x, size image y)
 	 */
-	const avatar = await ImagesCanvas.loadImage(
-		'https://i.pinimg.com/originals/3f/3d/d9/3f3dd9219f7bb1c9617cf4f154b70383.jpg'
-	);
+	const avatar = await ImagesCanvas.loadImage('https://github.com/Gifairu.png?size=460');
 	context.beginPath();
 	context.arc(canvas.width / 2, 110, 90, 0, 2 * Math.PI);
 	context.closePath();
