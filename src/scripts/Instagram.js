@@ -6,7 +6,7 @@ const Instagram = async (username) => {
 	const canvas = ImagesCanvas.createCanvas(512, 200);
 	const context = canvas.getContext('2d');
 
-	const res = await fetch(`https://www.instagram.com/${username}/channel/?__a=1`);
+	const res = await fetch(`https://www.instagram.com/${username}?__a=1`);
 	const result = await res.json();
 
 	/** Register Font
