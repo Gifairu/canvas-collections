@@ -20,7 +20,8 @@
 	},
 	"homepage": "https://github.com/Gifairu/canvas-collections#readme",
 	"dependencies": {
-		"canvas": "^2.8.0"
+		"canvas": "^2.8.0",
+		"node-fetch": "^2.6.1"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.7",
