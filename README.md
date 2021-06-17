@@ -25,3 +25,12 @@
 		<img src="results/Instagram.png" alt="Instagram-After">
 	</a>
 </p>
+
+<!-- QUOTES -->
+<h3 align="center">Quotes</h3>
+<p align="center">
+  <a href="https://github.com/Gifairu/canvas-collections">
+		<img src="src/assets/template/Quotes.png" alt="Quotes-Before">
+		<img src="results/Quotes.png" alt="Quotes-After">
+	</a>
+</p>
