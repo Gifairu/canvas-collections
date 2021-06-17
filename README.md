@@ -30,7 +30,7 @@
 <h3 align="center">Quotes</h3>
 <p align="center">
   <a href="https://github.com/Gifairu/canvas-collections">
-		<img src="src/assets/template/Quotes.png" alt="Quotes-Before">
-		<img src="results/Quotes.png" alt="Quotes-After">
+		<img src="src/assets/template/Quotes.png" alt="Quotes-Before" width="256">
+		<img src="results/Quotes.png" alt="Quotes-After" width="256">
 	</a>
 </p>
